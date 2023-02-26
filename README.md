@@ -1,4 +1,4 @@
-# using paddlepaddle and paddleNlp frame
+## use Paddlepaddle and PaddleNlp
 ```bash
 pip install -r requirement.txt
 ```
